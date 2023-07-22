@@ -1,9 +1,10 @@
-<h1>Hi, I'm Benjamin, an <a href="https://linkedin.com/in/benjamin-wiii-61b4b4196">IT Professional</a>☺</h1>
+<h1>Hi, I'm Benjamin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/BenW618/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/BenW618/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Benw618/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BenW618/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/BenW618/configure-ad)
